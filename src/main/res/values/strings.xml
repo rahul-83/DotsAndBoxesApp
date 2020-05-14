@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DotsandBoxes</string>
+    <string name="feld_groesse">Field:</string>
+    <string name="spielen">Play</string>
+    <string name="app_beenden">Beenden</string>
+    <string name="spieler">Player:</string>
+    <string name="spieler_1_name">Cheese</string>
+    <string name="spieler_2_name">Mouse</string>
+    <string name="game_score">Score:</string>
+    <string name="gewinner">Winner:</string>
+    <string name="play_again">Play Again</string>
+    <string name="zurueck_zum_hauptmenue">Main Menu</string>
+</resources>
